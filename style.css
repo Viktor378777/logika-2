@@ -3,8 +3,61 @@ color:#ffe500;
 font-family: "Great Vibes", cursive;}
 footer {
 background-color:#9adf32;
+}
+table {
+    border-radius: 50px;
+    font-size: 40px;
+    text-align: center;
+    background-color:whitesmoke;
+    color:#009900;
+    margin: 0 auto;    
+  border-collapse: collapse;
+  width:80%;
+  height: 400px;
+}
+   
+    
+  
+.t th:first-child {
+  border-radius: 50px 0 0 0;
+  background-color: bisque;
+}
+.t th:last-child {
+  border-radius: 0 50px 0 0;
+  background-color: bisque;
+}
+.p {
+    background-color:#4dffa6 ;
 
 }
+.l {
+    background-color:#b3b3ff ;
+
+}
+.m {
+    background-color:#ffa366 ;
+
+}
+
+.v {
+    background-color:#ff80ff ;
+
+}
+
+.c th:first-child {
+  border-radius:  0 0 50px 0;
+  background-color: #ff99e6;
+}
+.c th:last-child {
+  border-radius: 0 0 0 50px ;
+  background-color: #ff99e6;
+}
+
+
+
+
+
+
 
 .img {
 width: 225px; 
